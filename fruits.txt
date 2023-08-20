@@ -1,3 +1,5 @@
 bananas
-strawberries
+passion fruit
 mangos
+apple
+pear
